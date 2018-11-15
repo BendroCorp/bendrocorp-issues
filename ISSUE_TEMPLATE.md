@@ -5,4 +5,4 @@ Content
 - [ ] **Brief description of the issue**
 - [ ] **Description of current behaviour (images/screenshots are welcome)**
 - [ ] **Description of expected behaviour**
-- [ ] **Platform (Web, Alexa, iOS, Android, etc.)**
+- [ ] **Platform (Web, Alexa, iOS, etc.)**
